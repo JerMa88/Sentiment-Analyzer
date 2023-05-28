@@ -1,0 +1,4 @@
+/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build/CMakeFiles/sentiment.dir
+/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build/CMakeFiles/test_DSString.dir
+/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build/CMakeFiles/edit_cache.dir
+/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build/CMakeFiles/rebuild_cache.dir
