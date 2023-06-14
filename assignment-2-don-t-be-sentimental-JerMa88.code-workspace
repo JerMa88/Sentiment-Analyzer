@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..//Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/catch2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bitset": "cpp",
+			"ios": "cpp",
+			"locale": "cpp",
+			"__hash_table": "cpp",
+			"__split_buffer": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"initializer_list": "cpp",
+			"stack": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
