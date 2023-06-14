@@ -62,4 +62,4 @@ Replace the following image with your diagram. You can draw it by hand and take 
 
 5. What was the most challenging part of the assignment?
 
-   > Your answer
+   > Architecture design of the program. Since CS1342 is the only programming experience I had (AP CS was not real coding), I was clueless about how to build this program in Feburary. If you check my submission prior to the midterm, my code was messy and unorganized, since I did not construct a functional program build up in my UML diagram. After assignment 3 and assignmnet 4 my ability to plan and design the program became more efficient, yet since I did not get a clean start on how to build the program, I went different routes to make my programs, resulting in hours of useless work. That include the construction of different functions that I did not end up using in the final version of the program. Regardless, I slowly found an optimal achitecheture for this program and it functions well with a consistent 58% accuracy.
