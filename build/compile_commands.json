@@ -1,44 +1,37 @@
 [
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/main.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/main.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/main.cpp",
-  "output": "CMakeFiles/sentiment.dir/main.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/main.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/main.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/main.cpp"
 },
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/DSString.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/DSString.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/DSString.cpp",
-  "output": "CMakeFiles/sentiment.dir/DSString.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/DSString.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/DSString.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/DSString.cpp"
 },
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/SentimentClassifier.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/SentimentClassifier.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/SentimentClassifier.cpp",
-  "output": "CMakeFiles/sentiment.dir/SentimentClassifier.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/SentimentClassifier.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/SentimentClassifier.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/SentimentClassifier.cpp"
 },
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/tweet.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/tweet.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/tweet.cpp",
-  "output": "CMakeFiles/sentiment.dir/tweet.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/tweet.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/tweet.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/tweet.cpp"
 },
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/Stemmer.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/Stemmer.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/Stemmer.cpp",
-  "output": "CMakeFiles/sentiment.dir/Stemmer.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/Stemmer.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/Stemmer.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/Stemmer.cpp"
 },
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/test_DSString.dir/test_DSString.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/test_DSString.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/test_DSString.cpp",
-  "output": "CMakeFiles/test_DSString.dir/test_DSString.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_DSString.dir/test_DSString.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/test_DSString.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/test_DSString.cpp"
 },
 {
-  "directory": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -Wall -Wextra -pedantic -o CMakeFiles/test_DSString.dir/DSString.cpp.o -c /Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/DSString.cpp",
-  "file": "/Users/zma/Documents/GitHub/assignment-2-don-t-be-sentimental-JerMa88/DSString.cpp",
-  "output": "CMakeFiles/test_DSString.dir/DSString.cpp.o"
+  "directory": "/users7/cse/jerryma/DS/Sentiment-Analyzer/build",
+  "command": "/usr/local/es7/bin/g++ -g -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/test_DSString.dir/DSString.cpp.o -c /users7/cse/jerryma/DS/Sentiment-Analyzer/DSString.cpp",
+  "file": "/users7/cse/jerryma/DS/Sentiment-Analyzer/DSString.cpp"
 }
 ]

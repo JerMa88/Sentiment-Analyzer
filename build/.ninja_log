@@ -1,0 +1,10 @@
+# ninja log v5
+7	859	1686775340464914000	CMakeFiles/test_DSString.dir/DSString.cpp.o	8b744032f5bde18
+7	1125	1686775340730889000	CMakeFiles/test_DSString.dir/test_DSString.cpp.o	6d52eb911ed74094
+1125	1265	1686775340872879000	test_DSString	2a09e616aa9d86f9
+11	812	1686775352112729000	CMakeFiles/sentiment.dir/DSString.cpp.o	a795cb2fc097dcd7
+12	908	1686775352209717000	CMakeFiles/sentiment.dir/tweet.cpp.o	7a4914b8543d4459
+11	946	1686775352247720000	CMakeFiles/sentiment.dir/main.cpp.o	24c588f1eaffae89
+11	1352	1686775352652695000	CMakeFiles/sentiment.dir/SentimentClassifier.cpp.o	3c0f1dd9d56d7ba1
+12	1359	1686775352657691000	CMakeFiles/sentiment.dir/Stemmer.cpp.o	8ad63130a705b4d5
+1359	1551	1686775352852682000	sentiment	4d1eb645d45dc252

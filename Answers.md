@@ -37,7 +37,28 @@ Replace the following image with your diagram. You can draw it by hand and take 
 4. How do you know that you use proper memory management? I.e., how do you know that you do not have
    a memory leak?
 
-   > By running valgrind, the code does not have a memory leak.
+   > By running valgrind, the code does not have a memory leak. (The 1st pasted block is valgrind result of ./test_DSString; the 2nd is ./sentiment)
+   ==45051== 
+==45051== HEAP SUMMARY:
+==45051==     in use at exit: 0 bytes in 0 blocks
+==45051==   total heap usage: 35 allocs, 35 frees, 72,980 bytes allocated
+==45051== 
+==45051== All heap blocks were freed -- no leaks are possible
+==45051== 
+==45051== For lists of detected and suppressed errors, rerun with: -s
+==45051== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+   ../build/sentiment ../data/train_dataset_20k.csv ../data/test_dataset_10k.csv ../data/tested_output.csv ../data/tested_output.csv ../data/test_dataset_sentiment_10k.csv==44869== 
+==44869== HEAP SUMMARY:
+==44869==     in use at exit: 0 bytes in 0 blocks
+==44869==   total heap usage: 1 allocs, 1 frees, 72,704 bytes allocated
+==44869== 
+==44869== All heap blocks were freed -- no leaks are possible
+==44869== 
+==44869== For lists of detected and suppressed errors, rerun with: -s
+==44869== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+
 
 5. What was the most challenging part of the assignment?
 
